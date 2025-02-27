@@ -6,10 +6,6 @@ Este projeto consiste em uma página de login simples com um design moderno e um
 
 A página de login foi criada com HTML e CSS, focando em uma interface de usuário limpa e intuitiva. O destaque do projeto é o efeito de fundo, que combina um gradiente linear com uma sobreposição radial para criar um visual atraente e único.
 
-## Demonstração
-
-[Insira aqui um link para uma demonstração ao vivo ou um GIF mostrando a página de login.]
-
 ## Recursos
 
 * **Design Responsivo:** A página de login é projetada para se adaptar a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente em dispositivos móveis e desktops.
@@ -26,19 +22,13 @@ A página de login foi criada com HTML e CSS, focando em uma interface de usuár
 
 1.  Clone o repositório:
     
-    \`\`\`bash
+    
     git clone https://github.com/dolthub/dolt
-    \`\`\`
+  
     
 2.  Abra o arquivo `index.html` em seu navegador.
 
 ## Estrutura do Projeto
-
-\`\`\`
-pagina-login/
-├── index.html
-└── style.css
-\`\`\`
 
 * `index.html`: Arquivo HTML principal que contém a estrutura da página de login.
 * `style.css`: Arquivo CSS que contém os estilos da página, incluindo o efeito de fundo.
